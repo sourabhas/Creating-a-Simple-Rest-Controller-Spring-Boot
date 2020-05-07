@@ -1,4 +1,4 @@
-*Introduction to Spring Boot*
+*Spring Boot*
 -Developing Spring Applications before Spring Boot
 -Using Spring Initializr to create a Spring Boot Application
 -Creating a Simple REST Controller
