@@ -6,3 +6,5 @@
 -Spring Boot vs Spring vs Spring MVC
 -Spring Boot Developer Tools
 
+End result: A simple "BOOKs data" rest controller(rest service) which  has book id,book name and author in the form of a jason file.
+
